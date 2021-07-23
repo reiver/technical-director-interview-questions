@@ -54,6 +54,38 @@ Having said that — this is a good segue into the difference between **supervis
 
 Having said that, I expect a **technical director** (**TD**) to be able to do all these activities.
 
+## Interview Questions
 
+### Question 1
 
+You are on a cross-function team with a number of people, including a number of software developers, and you are the **technical director** (**TD**).
 
+You are reviewing the code of one of the software developers.
+
+Back when you were programming full-time, you tended to prefer to program your code in a certain style.
+
+You notice that the software developer is formatting his code in a way that is different than how you would have done it.
+
+What are you thinking?
+
+### Question 2
+
+You are on a cross-function team with a number of people, including a number of software developers, and you are the **technical director** (**TD**).
+
+One of the software developers created the entire backend all by himself or herself from scratch. This backend developer is very experienced, and has been a softtware developer for 15 years.
+
+Another of the software developers created the entire fronend all by himself or herself from scratch. This frontend developer is also experienced, and has been a software developer for 10 years.
+
+The team has 8 software developers in total.
+
+A new major feature needs to be added to the backend.
+
+What happens next?
+
+### Question 3
+
+You are on a cross-function team with a number of people, including a number of software developers, and you are the **technical director** (**TD**).
+
+One of the software developers has a task. You feel that it is taking longer than you might expect.
+
+What are you thinking?
