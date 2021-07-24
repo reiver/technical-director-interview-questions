@@ -20,6 +20,8 @@ BUT — that is not an answer many (probably most) people want to hear. So I'll 
 Here is the answer to that question — what I expect from someone when I give them the title of **technical director** (**TD**):
 > In a company with cross-functional teams, the **technical director** (**TD**) provides supervision, management, leadership, and techical direction to (at least) the software developers, and maybe also to other people on the team.
 
+(You might be thinking — “ok, great; what does that do all those words mean in practice?”)
+
 ## Management Jargon
 
 Let's get into a bit of management jargon —
