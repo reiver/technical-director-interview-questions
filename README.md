@@ -110,8 +110,12 @@ The team is located in different locations across the world.
 
 You just found out that _production_ system is down!
 
-After a bit of investigation, you find out that the only person who can deal with this is a software developer who is on the other side of the planet.
+After a bit of investigation, you find out that you think the problem can be fixed (and you can get _production_ back up), but you need to make a change to one of the systems, and do an emergency _production_ release.
 
-For you it is 3pm, but for that software developer it is 3am.
+You  also realize that the only person who can deal with this is a software developer who is on the other side of the planet.
+
+Why‽ — because he wrote that the system all by himself, and is the only one that can do a _production_ release for it.
+
+For you it is 3pm, but for that software developer it is 3am, and a holiday.
 
 What do you do?
