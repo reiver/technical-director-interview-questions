@@ -56,6 +56,16 @@ Having said that — this is a good segue into the difference between **supervis
 
 Having said that, I expect a **technical director** (**TD**) to be able to do all these activities.
 
+## Features
+
+Before I get into the **interview questions for a technical director (TD)**, I'm going to talk about what I'm trying to figure out when I interview someone from a **technical director** (**TD**) role:
+
+* does the person seem smart?
+* does the person seem internally motivated?
+* does the person like technical things?
+* does the person like technical things that have nothing to do with their job?
+* 
+
 ## Interview Questions
 
 ### Question 1
