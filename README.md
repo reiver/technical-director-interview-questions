@@ -64,7 +64,13 @@ Before I get into the **interview questions for a technical director (TD)**, I'm
 * does the person seem internally motivated?
 * does the person like technical things?
 * does the person like technical things that have nothing to do with their job?
-* 
+* can the person coach/mentor/teach the people on the team he is on?
+* does the person let (some) other people "own" things?
+* does the person understand _why_ it is important to let other people "own" things?
+* does the person know who should be permitted to "own" things, and who shouldn't?
+* does the person know how to forecast?
+* does the person understand incentives?
+* how susceptible is the person to the latest maangement & tech fashions?
 
 ## Interview Questions
 
