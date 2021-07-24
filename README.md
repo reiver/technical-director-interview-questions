@@ -101,3 +101,17 @@ You are on a cross-function team with a number of people, including a number of 
 One of the software developers has a task. You feel that it is taking longer than you might expect.
 
 What are you thinking?
+
+### Question 4
+
+You are on a cross-function team with a number of people, including a number of software developers, and you are the **technical director** (**TD**).
+
+The team is located in different locations across the world.
+
+You just found out that _production_ system is down!
+
+After a bit of investigation, you find out that the only person who can deal with this is a software developer who is on the other side of the planet.
+
+For you it is 3pm, but for that software developer it is 3am.
+
+What do you do?
