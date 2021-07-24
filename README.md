@@ -113,7 +113,7 @@ One of the software developers has a task. You feel that it is taking longer tha
 
 What are you thinking?
 
-### Question 4
+### Question 5
 
 You are on a cross-function team with a number of people, including a number of software developers, and you are the **technical director** (**TD**).
 
