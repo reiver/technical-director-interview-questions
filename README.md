@@ -71,10 +71,15 @@ Before I get into the **interview questions for a technical director (TD)**, I'm
 * does the person know how to forecast?
 * does the person understand incentives?
 * how susceptible is the person to the latest maangement & tech fashions?
+* 
 
 ## Interview Questions
 
 ### Question 1
+
+How do you go about onboarding people?
+
+### Question 2
 
 You are on a cross-function team with a number of people, including a number of software developers, and you are the **technical director** (**TD**).
 
@@ -86,7 +91,7 @@ You notice that the software developer is formatting his code in a way that is d
 
 What are you thinking?
 
-### Question 2
+### Question 3
 
 You are on a cross-function team with a number of people, including a number of software developers, and you are the **technical director** (**TD**).
 
@@ -100,7 +105,7 @@ A new major feature needs to be added to the backend.
 
 What happens next?
 
-### Question 3
+### Question 4
 
 You are on a cross-function team with a number of people, including a number of software developers, and you are the **technical director** (**TD**).
 
